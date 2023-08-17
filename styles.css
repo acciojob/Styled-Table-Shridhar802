@@ -1,1 +1,26 @@
 /* your code */
+ body {
+    font-family: Arial, sans-serif;
+
+  }
+  table {
+    border-collapse: collapse;
+    width: 70%;
+    margin: 20px auto;
+    background-color: #ffffff;
+    border-radius: 10px;
+    overflow: hidden; 
+  }
+  th, td {
+    padding: 12px 15px;
+    text-align: center;
+    border: 1px solid #ccc; /* Add border to cells */
+  }
+  th {
+    background-color: #007bff;
+    color: #ffffff;
+  }
+  }
+  tr:hover {
+    background-color: #e0e0e0;
+  }
